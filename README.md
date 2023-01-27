@@ -6,7 +6,7 @@
 
 ![Nuno GitHub stats](https://github-readme-stats.vercel.app/api?username=nunso478&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunso478&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunso478&layout=Demo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Technologies that I use
